@@ -1,3 +1,4 @@
-# plugin-base
+# ctf
 
-Generic plugin base using a Java API, and a Kotlin implementation.
+Capture The Fox
+
